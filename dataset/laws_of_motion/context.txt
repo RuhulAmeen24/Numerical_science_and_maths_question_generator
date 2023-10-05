@@ -1,0 +1,8 @@
+Force is a push or pull which changes or tries to change the state of rest
+Linear momentum of a body is equal to the product of its mass and velocity
+A body continues to be in its state of rest or in uniform motion along a straight line unless an external force is applied on it.
+The rate of change of linear momentum is proportional to the applied force and change in momentum takes place in the direction of applied force.
+For every action there is an equal and opposite reaction and both acts on two different bodies
+If no external force acts on a system, then its total linear momentum remains conserved.
+It is a field force, the force with which a body is pulled towards the centre of the earth due to gravity.
+Tension across a massless pulley or frictionless pulley remain constant.

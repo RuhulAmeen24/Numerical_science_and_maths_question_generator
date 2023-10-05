@@ -1,0 +1,44 @@
+{"trg": "What is the time period of a 100 Hz AC signal?", "src": "AC is an oscillating electric current that changes direction periodically."}
+{"trg": "What is the frequency of a 10 second AC signal?", "src": "AC is an oscillating electric current that changes direction periodically."}
+{"trg": "What is the time period of a 75 Hz AC signal?", "src": "AC is an oscillating electric current that changes direction periodically."}
+{"trg": "What is the frequency of a 3 ms AC signal?", "src": "AC is an oscillating electric current that changes direction periodically."}
+{"trg": "What is the impedance of a circuit composed of a 10 \u03a9 resistor?", "src": "AC circuits can be composed of resistors."}
+{"trg": "What is the impedance of a circuit composed of a 15 \u03a9 resistor in series with a 10 \u03a9 resistor?", "src": "AC circuits can be composed of resistors."}
+{"trg": "What is the current in a 10 \u03a9 resistor in a 240 V AC circuit?", "src": "AC circuits can be composed of resistors."}
+{"trg": "What is the current in a 5 \u03a9 resistor in a 60 V AC circuit?", "src": "AC circuits can be composed of resistors."}
+{"trg": "What is the reactance of a 5 \u03bcF capacitor in a 200 Hz AC circuit?", "src": "AC circuits can be composed of capacitors."}
+{"trg": "What is the impedance of a circuit composed of a 30 \u03bcF capacitor in parallel with a 50 \u03a9 resistor?", "src": "AC circuits can be composed of capacitors."}
+{"trg": "What is the impedance of a circuit composed of a 50 \u03bcF capacitor in series with a 100 \u03a9 resistor?", "src": "AC circuits can be composed of capacitors."}
+{"trg": "What is the capacitive reactance of a 40 \u03bcF capacitor in a 200 Hz AC circuit?", "src": "AC circuits can be composed of capacitors."}
+{"trg": "What is the inductive reactance of a 5 mH inductor in a 500 Hz AC circuit?", "src": "AC circuits can be composed of inductors."}
+{"trg": "What is the impedance of a circuit composed of a 30 mH inductor in parallel with a 50 \u03a9 resistor?", "src": "AC circuits can be composed of inductors."}
+{"trg": "What is the impedance of a circuit composed of a 50 mH inductor in series with a 100 \u03a9 resistor?", "src": "AC circuits can be composed of inductors."}
+{"trg": "What is the inductive reactance of a 40 mH inductor in a 500 Hz AC circuit?", "src": "AC circuits can be composed of inductors."}
+{"trg": "What is the phase difference between the voltage and current in a circuit composed of a 50 \u03a9 resistor and a 10 \u03bcF capacitor in series?", "src": "AC circuits can be composed of resistors and capacitors."}
+{"trg": "What is the equivalent capacitance of three 30 \u03bcF capacitors in series with a 10 \u03a9 resistor?", "src": "AC circuits can be composed of resistors and capacitors."}
+{"trg": "What is the phase difference between the voltage and current in a circuit composed of a 50 \u03a9 resistor and a 30 \u03bcF capacitor in series?", "src": "AC circuits can be composed of resistors and capacitors."}
+{"trg": "What is the impedance of a circuit composed of a 10 \u03a9 resistor in parallel with a 20 \u03bcF capacitor?", "src": "AC circuits can be composed of resistors and capacitors."}
+{"trg": "What is the impedance of a circuit composed of a 20 \u03a9 resistor in series with a 5 mH inductor?", "src": "AC circuits can be composed of resistors and inductors."}
+{"trg": "What is the equivalent inductance of three 20 mH inductors in series with a 10 \u03a9 resistor?", "src": "AC circuits can be composed of resistors and inductors."}
+{"trg": "What is the phase difference between the voltage and current in a circuit composed of a 20 \u03a9 resistor and a 50 mH inductor in series?", "src": "AC circuits can be composed of resistors and inductors."}
+{"trg": "What is the impedance of a circuit composed of a 20 \u03a9 resistor in series with a 10 mH inductor?", "src": "AC circuits can be composed of resistors and inductors."}
+{"trg": "What is the resonant frequency of a circuit composed of a 10 \u03bcF capacitor and a 5 mH inductor?", "src": "AC circuits can be composed of capacitors and inductors."}
+{"trg": "What is the equivalent inductance of two 5 mH inductors in series with a 100 \u03bcF capacitor?", "src": "AC circuits can be composed of capacitors and inductors."}
+{"trg": "What is the phase difference between the voltage and current in a circuit composed of a 20 \u03bcF capacitor and a 30 mH inductor in series?", "src": "AC circuits can be composed of capacitors and inductors."}
+{"trg": "What is the impedance of a circuit composed of a 50 \u03bcF capacitor in parallel with a 10 mH inductor?", "src": "AC circuits can be composed of capacitors and inductors."}
+{"trg": "What is the impedance of a circuit composed of a 10 \u03a9 resistor, a 20 \u03bcF capacitor and a 30 mH inductor in series?", "src": "AC circuits can be composed of resistors, capacitors and inductors."}
+{"trg": "What is the impedance of a circuit composed of a 20 \u03a9 resistor, a 30 \u03bcF capacitor and a 10 mH inductor in parallel?", "src": "AC circuits can be composed of resistors, capacitors and inductors."}
+{"trg": "What is the power factor of a circuit composed of a 20 \u03a9 resistor, a 20 \u03bcF capacitor and a 5 mH inductor in parallel?", "src": "AC circuits can be composed of resistors, capacitors and inductors."}
+{"trg": "What is the equivalent inductance of four 20 mH inductors in parallel with a 30 \u03bcF capacitor and a 50 \u03a9 resistor in series?", "src": "AC circuits can be composed of resistors, capacitors and inductors."}
+{"trg": "What is the turns ratio of a transformer that has 1000 turns in the primary and 50 turns in the secondary?", "src": "Transformers work on the principle of mutual induction."}
+{"trg": "What is the output voltage of a transformer that has a turns ratio of 1:10 and an input voltage of 240 V?", "src": "Transformers work on the principle of mutual induction."}
+{"trg": "What is the turns ratio of a transformer that has an output voltage of 120 V and an input voltage of 240 V?", "src": "Transformers work on the principle of mutual induction."}
+{"trg": "What is the output voltage of a transformer that has a turns ratio of 1:4 and an input voltage of 110 V?", "src": "Transformers work on the principle of mutual induction."}
+{"trg": "What is the energy stored in a 100 \u03bcF capacitor charged to 220 V?", "src": "A capacitor stores energy in an electric field and can be used in AC circuits."}
+{"trg": "What is the voltage across a 100 \u03bcF capacitor that stores 1 mJ of energy?", "src": "A capacitor stores energy in an electric field and can be used in AC circuits."}
+{"trg": "What is the capacitance of a capacitor that stores 200 mJ of energy at 500 V?", "src": "A capacitor stores energy in an electric field and can be used in AC circuits."}
+{"trg": "What is the capacitance of a capacitor that stores 100 mJ of energy at 200 V?", "src": "A capacitor stores energy in an electric field and can be used in AC circuits."}
+{"trg": "If a series AC circuit has a current of 3 A and a total resistance of 15 \u03a9, what is the total voltage drop across the circuit?", "src": "Series AC circuits have the same current but different voltage drops."}
+{"trg": "If a series AC circuit has a total voltage drop of 30 V and a total resistance of 15 \u03a9, what is the current in the circuit?", "src": "Series AC circuits have the same current but different voltage drops."}
+{"trg": "What is the voltage drop across a 5 \u03a9 resistor in a series AC circuit with a total voltage drop of 50 V?", "src": "Series AC circuits have the same current but different voltage drops."}
+{"trg": "If a series AC circuit has a total voltage drop of 30 V and a total capacitance of 3 F, what is the reactance of the circuit?", "src": "Series AC circuits have the same current but different voltage drops."}

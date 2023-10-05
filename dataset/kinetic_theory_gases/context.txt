@@ -1,0 +1,9 @@
+The pressure of a gas is the result of continuous bombardment of the gas molecules against the walls of the container
+According to Boyles law, the volume (V) of a fixed mass of a gas is inversely proportional to the pressure (P) of the gas, provided temperature of the gas is kept constant.
+According to Charles law, the volume (V) of a given mass of a gas is directly proportional to the temperature of the gas, provided pressure of the gas remains constant.
+According to Gay Lussac law, the pressure P of a given mass of a gas is directly proportional to its absolute temperature T, provided the volume V of the gas remains constant.
+Equal volumes of all gases under S.T.P. contain the same number of molecules equalling 6.023 x 1023.
+Graham’s Law of Diffusion of Gases states that rate of diffusion of a gas is inversely proportional to the square root of the density of the gas.
+According to Dalton’s Law of Partial Pressures, the resultant pressure exerted by a mixture of non-interacting gases is equal to the sum of their individual pressures.
+The total average kinetic energy of all the molecules of a gas is proportional to its absolute temperature.
+Mean free path of a molecule in a gas is the average distance travelled by the molecule between two successive collisions
