@@ -1,4 +1,4 @@
-# BTP2023: Numerical Question Generation in Science
+# Numerical Question Generation in Science
 
 ## Steps to Run Code
 - The code is present in the /code/diffuSeq_qg.ipynb notebook.
